@@ -1,6 +1,6 @@
 # v6 Deprecation Shims
 
-Skills in this folder are forwarders kept for backward compatibility with v6 skill IDs.
+Skills  in this folder are forwarders kept for backward compatibility with v6 skill IDs.
 Each one holds no logic of its own — it forwards to the skill that replaced it, pinning
 the legacy output contract so existing callers keep working.
 
